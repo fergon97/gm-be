@@ -1,0 +1,32 @@
+[
+  {
+    "id_usuario": 1,
+    "email": "fernanda@gmail.com",
+    "password": "hashed_password_admin",
+    "nombre": "Fernanda",
+    "apellido": "Rojas",
+    "telefono": "+1234567890",
+    "rol": "admin",
+    "fecha_creacion": "2025-04-05T10:00:00"
+  },
+  {
+    "id_usuario": 2,
+    "email": "ramon@gmail.com",
+    "password": "hashed_password_cliente1",
+    "nombre": "Ramón",
+    "apellido": "Martinez",
+    "telefono": "+9876543210",
+    "rol": "cliente",
+    "fecha_creacion": "2025-04-05T10:00:00"
+  },
+  {
+    "id_usuario": 3,
+    "email": "fernando@gmail.com",
+    "password": "hashed_password_cliente2",
+    "nombre": "Fernando",
+    "apellido": "González",
+    "telefono": "+1122334455",
+    "rol": "cliente",
+    "fecha_creacion": "2025-04-05T10:00:00"
+  }
+]

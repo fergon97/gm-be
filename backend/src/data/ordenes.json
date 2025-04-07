@@ -1,0 +1,19 @@
+[
+  {
+    "id_orden": 1,
+    "id_cliente": 101,
+    "nombre_cliente": "Ramón Martinez",
+    "productos": [
+      {
+        "id_producto": 1,
+        "nombre_producto": "Space Marines 2",
+        "cantidad": 2,
+        "precio_unitario": 35990,
+        "subtotal": 71980
+      }
+    ],
+    "total": 71980,
+    "fecha_orden": "2025-04-06T15:30:00",
+    "estado": "Pendiente"
+  }
+]

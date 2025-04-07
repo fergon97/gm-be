@@ -1,0 +1,92 @@
+[
+  {
+    "id_producto": 1,
+    "nombre_producto": "Space Marine 2",
+    "descripcion": "Usa las habilidades y brutalidad sobrehumanas de los marines espaciales. Usa habilidades letales y armamento devastador para aniquilar a los incesantes enjambres tiránidos. Defiende el Imperium en el modo solitario o multijugador en tercera persona.",
+    "precio": 35990,
+    "categoria": "accion",
+    "imagen_producto": ["https://i.postimg.cc/B6tXxz1Z/WH.jpg"],
+    "id_categoria": 1
+  },
+  {
+    "id_producto": 2,
+    "nombre_producto": "Dark Souls III",
+    "descripcion": "Dark Souls continúa redefiniendo los límites con el nuevo y ambicioso capítulo de esta serie revolucionaria, tan aclamada por la crítica. ¡Prepárate para sumergirte en la oscuridad!",
+    "precio": 15990,
+    "categoria": "rol",
+    "imagen_producto": ["https://cdn.plantify.com/cactus1.jpg"],
+    "id_categoria": 3
+  },
+  {
+    "id_producto": 3,
+    "nombre_producto": "RE 2 Remake",
+    "descripcion": "Publicado originalmente en 1998, Resident Evil 2, uno de los juegos más icónicos de todos los tiempos, regresa completamente reinventado para las consolas de nueva generación.",
+    "precio": 19990,
+    "categoria": "terror",
+    "imagen_producto": ["https://i.postimg.cc/KYGKYjGM/R-E-2.jpg"],
+    "id_categoria": 2
+  },
+  {
+    "id_producto": 4,
+    "nombre_producto": "Halo Infinite",
+    "descripcion": "Halo, una de las sagas más icónicas de los videojuegos, es ahora más grande que nunca e incluye una amplia campaña de mundo abierto y una dinámica experiencia multijugador gratuita.",
+    "precio": 14990,
+    "categoria": "accion",
+    "imagen_producto": ["https://i.postimg.cc/DyG4jRp8/H-I.jpg"],
+    "id_categoria": 1
+  },
+  {
+    "id_producto": 5,
+    "nombre_producto": "Hogwarts Legacy",
+    "descripcion": "Hogwarts Legacy es un RPG inmersivo de acción en mundo abierto. Ahora puedes tomar el control de la acción y ser el centro de tu propia aventura en el mundo mágico.",
+    "precio": 25990,
+    "categoria": "rol",
+    "imagen_producto": ["https://i.postimg.cc/6pN2DzFz/H-L.jpg"],
+    "id_categoria": 3
+  },
+  {
+    "id_producto": 6,
+    "nombre_producto": "COD: Black Ops 6",
+    "descripcion": "Call of Duty®: Black Ops 6 es el Black Ops auténtico, con una campaña cinemática individual, la mejor experiencia Multijugador de su clase y el épico regreso de Zombis por rondas.",
+    "precio": 35990,
+    "categoria": "accion",
+    "imagen_producto": ["https://i.postimg.cc/2ybLftz9/C-O-D-B-O.jpg"],
+    "id_categoria": 1
+  },
+  {
+    "id_producto": 7,
+    "nombre_producto": "The last of us",
+    "descripcion": "Descubre el galardonado juego que inspiró la aclamada serie de televisión. Guía a Joel y Ellie por unos Estados Unidos postapocalípticos y encuentra aliados y enemigos inolvidables en The Last of Us",
+    "precio": 16990,
+    "categoria": "terror",
+    "imagen_producto": ["https://i.postimg.cc/mrmP14k6/T-L-O-U.jpg"],
+    "id_categoria": 2
+  },
+  {
+    "id_producto": 8,
+    "nombre_producto": "Diablo IV",
+    "descripcion": "Explora Santuario en solitario o en compañía mientras avanzas en la fascinante campaña de Diablo IV, aceptando misiones, liberando ciudades y luchando contra jefes épicos. Al más puro estilo Diablo, te aguarda un juego avanzado y expansivo, en el que podrás reunirte con otros jugadores en el mundo compartido del juego para intercambiar, formar un equipo o probar tu poder en zonas JcJ sin sala. El juego cruzado, la progresión cruzada y el cooperativo de sofá te permiten continuar la aventura cuando quieras y desde donde sea.",
+    "precio": 29990,
+    "categoria": "rol",
+    "imagen_producto": ["https://i.postimg.cc/nryjV1rF/D-IV.jpg"],
+    "id_categoria": 3
+  },
+  {
+    "id_producto": 9,
+    "nombre_producto": "Indika",
+    "descripcion": "Juega en 3.ª persona y vive una historia ambientada en una Rusia alternativa de finales del siglo XIX en la que las visiones religiosas colisionan con la dura realidad. INDIKA narra el viaje de autodescubrimiento de una joven monja con un compañero de lo más inusual: el diablo.",
+    "precio": 9990,
+    "categoria": "terror",
+    "imagen_producto": ["https://i.postimg.cc/2SFbmhDY/IK.jpg"],
+    "id_categoria": 2
+  },
+  {
+    "id_producto": 10,
+    "nombre_producto": "AC Valhalla",
+    "descripcion": "Assassins Creed Valhalla es un videojuego de rol de acción desarrollado por Ubisoft Montreal y publicado por Ubisoft. Es el decimosegundo en importancia y el vigesimosegundo lanzado dentro de la saga de Assassin Creed, y sucesor al juego del 2018 Assassins Creed Odyssey.",
+    "precio": 21990,
+    "categoria": "rol",
+    "imagen_producto": ["https://i.postimg.cc/tTmnwbHV/A-V.jpg"],
+    "id_categoria": 3
+  }
+]
